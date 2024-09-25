@@ -4,4 +4,4 @@ If you plan to run anything (why?), you should be on a Linux x64 machine, and ha
 Please reffer to inside the files for commented instructions.
 
 Kinds Regards,
-Ceri
+Christos Graikos
